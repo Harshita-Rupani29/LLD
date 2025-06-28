@@ -1,0 +1,70 @@
+# Default ignored files
+.idea/
+/shelf/
+workspace.xml
+
+# Java compiled output
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+
+# Log files
+*.log
+logs/
+temp/
+tmp/
+
+# Maven build output
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle build output (if you use Gradle instead of Maven)
+.gradle/
+/build/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar # Keep the Gradle wrapper jar if you use it
+
+# Eclipse project files (if you also use Eclipse)
+.classpath
+.project
+.settings/
+bin/
+tmp/
+.metadata
+.factorypath
+
+# NetBeans project files (if you also use NetBeans)
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# OS generated files
+.DS_Store # Mac
+Thumbs.db # Windows
+ehthumbs.db # Windows
+Desktop.ini # Windows
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Any other sensitive or temporary files
+*.iml # IntelliJ IDEA module files (you already have .idea/ but this is good too)
+*.ipr # IntelliJ IDEA project file
+*.iws # IntelliJ IDEA workspace file
+local.properties # Often contains local paths or sensitive info
